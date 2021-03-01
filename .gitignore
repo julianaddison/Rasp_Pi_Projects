@@ -9,3 +9,5 @@ Face_Recognition/images/Rasp_Projects
 Face_Recognition/images/*.jpeg
 Face_Recognition/output/*.jpeg
 
+# others
+.idea
