@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26b1d127-b944-4138-aebb-b97cb8489bd7" name="Default Changelist" comment="" />
+    <list default="true" id="26b1d127-b944-4138-aebb-b97cb8489bd7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Julian Addison" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
   <component name="ProjectId" id="1mXoz3a9WTCBdT7iT51GimOusGp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -107,18 +120,34 @@
       <workItem from="1610001596151" duration="2138000" />
       <workItem from="1610855117189" duration="1863000" />
       <workItem from="1614515871554" duration="9247000" />
-      <workItem from="1614602307627" duration="3579000" />
+      <workItem from="1614602307627" duration="4229000" />
     </task>
+    <task id="LOCAL-00001" summary="Added more items into .gitignore">
+      <created>1614615071987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614615071987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added more items into .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more items into .gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1730" y="362" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609917150960">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1730" y="362" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1609917150960" />
+    <state x="174" y="65" key="CommitChangelistDialog2" timestamp="1614615071707">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="174" y="65" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1614615071707" />
     <state x="377" y="344" width="876" height="456" key="EnvironmentVariablesDialog" timestamp="1614612375573">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -151,6 +180,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="26" y="132" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1614612438670" />
+    <state x="213" y="201" key="Vcs.Push.Dialog.v2" timestamp="1614615075574">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="213" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1614615075574" />
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1610855117213">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
