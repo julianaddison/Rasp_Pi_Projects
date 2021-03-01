@@ -1,0 +1,11 @@
+# test scripts
+Face_Recognition/twilio_send_sms.py
+Face_Recognition/RaspCameraTest.py
+Face_Recognition/Face_Recognition.py
+
+# images
+Face_Recognition/group.jpg
+Face_Recognition/images/Rasp_Projects
+Face_Recognition/images/*.jpeg
+Face_Recognition/output/*.jpeg
+

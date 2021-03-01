@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26b1d127-b944-4138-aebb-b97cb8489bd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mXoz3a9WTCBdT7iT51GimOusGp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="RaspPi" is-module-sdk="true">
+        <envs>
+          <env key="SG_PHONE_NUMBER" value="+6596531713" />
+          <env key="TWILIO_ACCOUNT_SID" value="ACd2c6bd35cbc8547e241fd1192feabd9e" />
+          <env key="TWILIO_AUTH_TOKEN" value="5c72555db1aad14d99379dba26a5f4f1" />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="RaspPi" />
+        <option name="myEnvs">
+          <map>
+            <entry key="SG_PHONE_NUMBER" value="+6596531713" />
+            <entry key="TWILIO_ACCOUNT_SID" value="ACd2c6bd35cbc8547e241fd1192feabd9e" />
+            <entry key="TWILIO_AUTH_TOKEN" value="5c72555db1aad14d99379dba26a5f4f1" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Face_Recognition" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Face_Recognition_RaspPi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RaspPi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Face_Recognition/Face_Recognition_RaspPi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Face_Recognition_RaspPi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26b1d127-b944-4138-aebb-b97cb8489bd7" name="Default Changelist" comment="" />
+      <created>1609649555731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609649555731</updated>
+      <workItem from="1609649559580" duration="3927000" />
+      <workItem from="1609809744772" duration="20014000" />
+      <workItem from="1610001596151" duration="2138000" />
+      <workItem from="1610855117189" duration="1863000" />
+      <workItem from="1614515871554" duration="9247000" />
+      <workItem from="1614602307627" duration="3579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1730" y="362" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609917150960">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1730" y="362" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1609917150960" />
+    <state x="377" y="344" width="876" height="456" key="EnvironmentVariablesDialog" timestamp="1614612375573">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="377" y="344" width="876" height="456" key="EnvironmentVariablesDialog/0.23.1440.877@0.23.1440.877" timestamp="1614612375573" />
+    <state width="1398" height="191" key="GridCell.Tab.0.bottom" timestamp="1610423930751">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1609827361637" />
+    <state width="1032" height="146" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1609917609713" />
+    <state width="1398" height="191" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1610423930751" />
+    <state width="1398" height="191" key="GridCell.Tab.0.center" timestamp="1610423930748">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="210" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1609827361633" />
+    <state width="1032" height="146" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1609917609712" />
+    <state width="1398" height="191" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1610423930748" />
+    <state width="1398" height="191" key="GridCell.Tab.0.left" timestamp="1610423930736">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="210" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1609827361632" />
+    <state width="1032" height="146" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1609917609711" />
+    <state width="1398" height="191" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1610423930736" />
+    <state width="1398" height="191" key="GridCell.Tab.0.right" timestamp="1610423930749">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="210" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1609827361634" />
+    <state width="1032" height="146" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1609917609713" />
+    <state width="1398" height="191" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1610423930749" />
+    <state x="26" y="132" key="SettingsEditor" timestamp="1614612438670">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="26" y="132" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1614612438670" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1610855117213">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1609809821540" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1610855117213" />
+    <state x="513" y="158" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1610193348689">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="513" y="158" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.877@0.23.1440.877" timestamp="1610193348689" />
+    <state x="369" y="184" width="700" height="530" key="recent.locations.popup" timestamp="1609810622381">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="369" y="184" width="700" height="530" key="recent.locations.popup/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1609810622381" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RaspPi$Face_Recognition_Webcam.coverage" NAME="Face_Recognition_Webcam Coverage Results" MODIFIED="1610193414544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
